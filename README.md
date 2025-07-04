@@ -4,6 +4,7 @@ Project Title: Digital Menu Card - UI/UX Design
 Internship Project @ Encryptix (1-Month Internship)
 
 Task1
+(br)
 Menu Card UI/UX Design – Internship Project
 This project showcases my work as a UI/UX Design Intern, where I designed an intuitive and visually appealing Menu Card interface for a restaurant using Figma. The focus was on enhancing user experience, ensuring clarity, accessibility, and aesthetic appeal while maintaining a modern, clean layout.
 
